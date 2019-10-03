@@ -272,5 +272,5 @@ After executing the tests, the code coverage report is generated inside `tests/b
 The skeleton is licensed under the [MIT](http://www.opensource.org/licenses/mit-license.php) license. See the [LICENSE](https://github.com/Aldin-SXR/flight-php-swagger/blob/master/LICENSE) file for details.
 
 ---
-
+  
 _Work in progress._ 
